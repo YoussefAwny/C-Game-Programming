@@ -1,0 +1,14 @@
+﻿  Timber.cpp
+c:\users\youssefawny\documents\visual studio 2015\projects\timber\timber\timber.cpp(292): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\youssefawny\documents\visual studio 2015\projects\timber\timber\timber.cpp(326): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\youssefawny\documents\visual studio 2015\projects\timber\timber\timber.cpp(385): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\youssefawny\documents\visual studio 2015\projects\timber\timber\timber.cpp(389): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\youssefawny\documents\visual studio 2015\projects\timber\timber\timber.cpp(418): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\youssefawny\documents\visual studio 2015\projects\timber\timber\timber.cpp(422): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\youssefawny\documents\visual studio 2015\projects\timber\timber\timber.cpp(449): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\youssefawny\documents\visual studio 2015\projects\timber\timber\timber.cpp(453): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\youssefawny\documents\visual studio 2015\projects\timber\timber\timber.cpp(480): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\youssefawny\documents\visual studio 2015\projects\timber\timber\timber.cpp(484): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\youssefawny\documents\visual studio 2015\projects\timber\timber\timber.cpp(515): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  Timber.vcxproj -> C:\Users\youssefawny\Documents\Visual Studio 2015\Projects\Timber\Debug\Timber.exe
+  Timber.vcxproj -> C:\Users\youssefawny\Documents\Visual Studio 2015\Projects\Timber\Debug\Timber.pdb (Full PDB)
